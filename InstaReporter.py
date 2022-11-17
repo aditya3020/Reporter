@@ -133,3 +133,6 @@ if __name__ =="__main__":#line:157
         print ("\n\n"+Fore .RED +"[*] Program is closing!")#line:163
         print (Style .RESET_ALL )#line:164
         _exit (0 )
+        $ cd Reporter
+        $ 1s
+        
